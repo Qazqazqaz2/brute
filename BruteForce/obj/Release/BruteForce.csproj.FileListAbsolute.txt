@@ -1,0 +1,7 @@
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\BruteForce.csproj.AssemblyReference.cache
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\BruteForce.BruteForm.resources
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\Physics.LoginForm.resources
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\BruteForce.Properties.Resources.resources
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\Physics.RegisterForm.resources
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\BruteForce.csproj.GenerateResource.cache
+C:\Users\armian\Downloads\BruteForce\BruteForce\BruteForce\obj\Release\BruteForce.csproj.CoreCompileInputs.cache
